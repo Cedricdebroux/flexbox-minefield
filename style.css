@@ -2,10 +2,15 @@
     margin: 0;
     padding: 0;
 }
+@font-face{
+    font-family: "Press Start 2P";
+    src:url("font/PressStart2P-Regular.ttf") format("truetype");
+}
 body {
     padding-top: 30px;
     display: flex;
     justify-content: center;
+    font-family: "press start 2P";
 }
   article {
     width: 424px;
