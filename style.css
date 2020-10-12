@@ -44,9 +44,9 @@ body {
   }
   div {
       width: 49px;
+      height: 48px;
       border: outset 2px;
       opacity: 0;
-      height: 48px;
       background-color: #cbcbcb;
       display: flex;
       align-items: center;
@@ -55,6 +55,7 @@ body {
   div:hover{
       opacity: 1;
       background-color: #cbcbcb;
+      border: inset 2px;
   }
  
  
