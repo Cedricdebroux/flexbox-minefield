@@ -44,7 +44,7 @@ body {
       height: 30px;
   }
   .box {
-      border: outset 2px;
+      border: outset black 2px;
       width: 49px;
       height: 48px;
   }
