@@ -12,7 +12,7 @@ body {
     height: 416px;
     display: flex;
     flex-wrap: wrap;
-    border: outset 10px;
+    border: inset 10px;
   }
 
   span {
